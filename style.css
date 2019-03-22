@@ -1,69 +1,264 @@
-h1 {
+* {
+	padding-left: 50px;
+	margin-right: 50px;
+	border:solid 0px black;
+} h1 {
 
-	color:cornflowerblue;
-	text-align: center;
+	margin-bottom: 0px;
+	padding-bottom: 5px;
+}
+
+
+
+
+ul {
+
+
+	background-color: Gainsboro;
+	padding-bottom: 10px;
+	margin-bottom: 0px;
+}
+
+
+nav {
+
+margin-left:300px;
+	margin-right:300px;
+
+
+}
+
+.header {
+background-color: Gainsboro;
+	
+		display:block;
 	margin:auto;
-	margin-top:50px;
-	margin-bottom:40px;
-	font-family: 'Roboto', sans-serif;
+	text-align: center;
+margin-left:250px;
+	margin-right:250px;
+	margin-bottom: 0px;
+
+}
+
+.links {
+padding-top: 10px;
+	text-align:center;
+	margin:0px 250px 0px 250px;
+background-color: Gainsboro;
+}
+
+.image {
+	display:block;
+	margin:auto;
+	text-align: center;
+margin-left:250px;
+	margin-right:250px;
+background-color: Gainsboro;
+padding-top:10px;
+}
+
+.profilePic {
+
+display:block;
+
+
+}
+
+
+
+.content {
+
+	text-align: center;
+}
+
+img {
+margin:0px 0px 0px 70px;
+width:160px;
+height:120px;
+
+}
+
+.portfolioHeader {
+display:block;
+	margin:auto;
+	text-align: center;
+margin-left:300px;
+	margin-right:300px;
+
 }
 
 li {
-
-
-text-align:center;
-display:block;
-margin:auto;
-border:solid 2px black;
-width:35%;
-padding:15px;
-font-family: 'Roboto', sans-serif;
-box-sizing: border-box;
+background-color: white;
+padding:10px;
+list-style: none;
+margin-bottom:5px;
 }
 
-div {
 
-margin:auto;
-border: solid 2px grey;
-width:65%;
-border-radius:15px;
-padding:0;
+.portfolioImage {
+
 display:block;
-text-align: center;
+margin:auto;
 }
 
-.profile {
+.portfolioDiv {
+display:block;
 	margin:auto;
-	border:solid 2px grey;	
+	text-align: center;
+margin-left:350px;
+	margin-right:350px;
+
+
+}
+.marketingHeader {
 	display:block;
-	
-	width:200px;
-	height:150px;
+	margin:auto;
+	text-align: center;
+margin-left:300px;
+	margin-right:300px;
 }
 
- .image {
+.marketingContent {
 
+	display:block;
+	margin:auto;
+	text-align: center;
+	margin-top:20px;
+	margin-left:300px;
+	margin-right:300px;
+}
+
+.marketingImage {
+
+display:block;
 margin:auto;
-border: solid 2px grey;
-width:30%;
-border-radius:15px;
-padding:0px;
-height:15%;
+}
+
+.marketingDiv {
+
+display:block;
+	margin:auto;
+	text-align: center;
+margin-left:350px;
+	margin-right:350px;
 
 }
 
-a:link {
-text-decoration: none;
-color:grey;
-font-weight: bold;
+
+.marketingPage {
+
+display:block;
+	margin:auto;
+	text-align: center;
+margin-left:350px;
+	margin-right:350px;
+
+
 }
-li:hover {
 
-	background-color: cornflowerblue;
+
+
+
+.search {
+
+display:block;
+	margin:auto;
+	text-align: center;
+margin-left:300px;
+	margin-right:300px;
+
+
+}
+.searchImage {
+
+display:block;
+margin:auto;
+
+
 }
 
-main {
+.Travel  {
 
-text-align: center;
-font-family: 'Roboto', sans-serif;
+display:block;
+	margin:auto;
+	text-align: center;
+margin-left:300px;
+	margin-right:300px;
+
+
+}
+
+.travelImage {
+
+	display:block;
+margin:auto;
+
+
+
+}
+
+.FavoriteSpots {
+
+	display:block;
+	margin:auto;
+	text-align: center;
+margin-left:300px;
+	margin-right:300px;
+
+}
+
+.favoriteSpotsImage {
+
+	display:block;
+margin:auto;
+
+
+}
+
+.gallery {
+
+	display:block;
+	margin:auto;
+	text-align: center;
+margin-left:300px;
+	margin-right:300px;
+
+
+}
+
+.calculator {
+
+display:block;
+	margin:auto;
+	text-align: center;
+margin-left:300px;
+	margin-right:300px;
+
+
+}
+
+.galleryImage {
+
+display:block;
+margin:auto;
+
+
+}
+
+.contact {
+
+display:block;
+	margin:auto;
+	text-align: center;
+margin-left:300px;
+	margin-right:300px;	
+
+
+
+}
+
+.Student,.Back {
+box-sizing: border-box;
+display: inline-block;
+
 }
